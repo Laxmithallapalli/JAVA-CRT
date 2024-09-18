@@ -20,6 +20,9 @@ class ALDemo
 
 /*
 o/p:
+Note: /tmp/7YYzyzbaXA/ALDemo.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+java -cp /tmp/7YYzyzbaXA/ALDemo
 [A, 10, A, null]
 [A, 10, null]
 [A, 10, m, null, n]
